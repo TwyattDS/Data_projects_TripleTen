@@ -12,10 +12,7 @@ Each project folder contains:
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **📉 Churn Prediction Project** | Predicting customer churn for a telecom provider using supervised learning |  
-| [Work Plan](./Churn_Prediction_Project/Churn_Prediction_Stage_1.ipynb)  
-| [Solution Code](./Churn_Prediction_Project/Churn_Prediction_Stage_2.ipynb)  
-| [Solution Report](./Churn_Prediction_Project/Churn_Prediction_Stage_3.ipynb)|
+| **📉 Churn Prediction Project** | Predicting customer churn for a telecom provider using supervised learning | [Work Plan](./Churn_Prediction_Project/Churn_Prediction_Stage_1.ipynb) • [Solution Code](./Churn_Prediction_Project/Churn_Prediction_Stage_2.ipynb) • [Solution Report](./Churn_Prediction_Project/Churn_Prediction_Stage_3.ipynb)
 | **🖼️ Computer Vision Project** | Image classification using CNNs to recognize patterns in visual data | [View Project](./Computer_Vision_Project/Computer_Vision_Project.ipynb) |
 | **🪙 Integrated Project 2: Gold Recovery** | Predicting gold recovery rates using regression models | [View Project](./Integrated_Project_2_Gold/Integrated_Project_2_Gold.ipynb) |
 | **➗ Linear Algebra Project** | Dimensionality reduction and matrix decomposition with NumPy | [View Project](./Linear_Alg_Project/Linear_Alg_Project.ipynb) |
