@@ -12,14 +12,14 @@ Each project folder contains:
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **📉 Churn Prediction Project** | Predicting customer churn for a telecom provider using supervised learning | [View Project](./Churn%20Prediction%20Project) |
-| **🖼️ Computer Vision Project** | Image classification using CNNs to recognize patterns in visual data | [View Project](./Computer%20Vision%20Project) |
-| **🪙 Integrated Project 2: Gold Recovery** | Predicting gold recovery rates using regression models | [View Project](./Integrated%20Project%202%20Gold) |
-| **➗ Linear Algebra Project** | Dimensionality reduction and matrix decomposition with NumPy | [View Project](./Linear%20Alg%20Project) |
-| **📈 ML in Business** | Forecasting customer revenue to guide business decisions | [View Project](./ML%20in%20Business%20Project) |
-| **🚗 Rusty Car Sales Prediction** | Predicting used car prices with multiple regression models | [View Project](./Rusty%20Car%20sales%20Project) |
-| **🗃️ SQL Project** | Data exploration and insights using SQL joins, filters, and aggregations | [View Project](./SQL%20Project) |
-| **🤖 Supervised Learning Project** | Classifying outcomes using various machine learning models | [View Project](./Supervised%20Learning%20Project) |
+| **📉 Churn Prediction Project** | Predicting customer churn for a telecom provider using supervised learning | [View Project](./Churn_Prediction_Project/Churn_Prediction_Project.ipynb) |
+| **🖼️ Computer Vision Project** | Image classification using CNNs to recognize patterns in visual data | [View Project](./Computer_Vision_Project/Computer_Vision_Project.ipynb) |
+| **🪙 Integrated Project 2: Gold Recovery** | Predicting gold recovery rates using regression models | [View Project](./Integrated_Project_2_Gold/Integrated_Project_2_Gold.ipynb) |
+| **➗ Linear Algebra Project** | Dimensionality reduction and matrix decomposition with NumPy | [View Project](./Linear_Alg_Project/Linear_Alg_Project.ipynb) |
+| **📈 ML in Business** | Forecasting customer revenue to guide business decisions | [View Project](./ML_in_Business_Project/ML_in_Business_Project.ipynb) |
+| **🚗 Rusty Car Sales Prediction** | Predicting used car prices with multiple regression models | [View Project](./Rusty_Car_Sales_Project/Rusty_Car_Sales_Project.ipynb) |
+| **🗃️ SQL Project** | Data exploration and insights using SQL joins, filters, and aggregations | [View Project](./SQL_Project/SQL_Project.ipynb) |
+| **🤖 Supervised Learning Project** | Classifying outcomes using various machine learning models | [View Project](./Supervised_Learning_Project/Supervised_Learning_Project.ipynb) |
 
 ---
 
