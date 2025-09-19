@@ -10,7 +10,7 @@
 ## 📚 Overview
 This repository contains my portfolio of hands-on data science projects...
 
-# 📚 Data Projects – TripleTen Bootcamp
+# Data Projects – TripleTen Bootcamp
 
 Welcome to my Data Science project portfolio completed during the TripleTen Bootcamp. This repository contains well-documented and organized projects that demonstrate skills in data analysis, machine learning, SQL, time series forecasting, and business problem solving.
 
