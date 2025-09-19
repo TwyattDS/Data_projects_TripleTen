@@ -1,3 +1,15 @@
+# 🧠 Data Science Projects
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-blue?logo=scikit-learn)](https://scikit-learn.org/)
+[![Last Updated](https://img.shields.io/badge/Last_Update-September_2025-success)]()
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](./LICENSE)
+
+## 📚 Overview
+This repository contains my portfolio of hands-on data science projects...
+
 # 📚 Data Projects – TripleTen Bootcamp
 
 Welcome to my Data Science project portfolio completed during the TripleTen Bootcamp. This repository contains well-documented and organized projects that demonstrate skills in data analysis, machine learning, SQL, time series forecasting, and business problem solving.
