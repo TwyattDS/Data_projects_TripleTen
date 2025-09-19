@@ -12,7 +12,7 @@ Each project folder contains:
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **📉 Churn Prediction Project** | Predicting customer churn for a telecom provider using supervised learning  
+| **📉 Churn Prediction Project** | Predicting customer churn for a telecom provider using supervised learning |  
 • [Work Plan](./Churn_Prediction_Project/Churn_Prediction_Stage_1.ipynb)  
 • [Solution Code](./Churn_Prediction_Project/Churn_Prediction_Stage_2.ipynb)  
 • [Solution Report](./Churn_Prediction_Project/Churn_Prediction_Stage_3.ipynb)|
